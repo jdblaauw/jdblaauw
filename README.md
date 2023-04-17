@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Jelle de Blaauw a Data Analyst working in The Netherlands.
+I'm currently learning about analytics engineering, DBT and data engineering. 
+
 <!--
 **jdblaauw/jdblaauw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
